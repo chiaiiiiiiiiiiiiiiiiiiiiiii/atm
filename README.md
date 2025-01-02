@@ -15,7 +15,7 @@
 客戶身份驗證用例圖範例如下所示：
 
 
-![image](01.jpg)
+![image](ATM-1.png)
 </h2>
 
 <h2>
@@ -25,7 +25,7 @@
 
 
 
-![image](02.jpg)
+![image](atm-2.png)
 </h2>
 <h2>
  步驟3：
@@ -33,5 +33,5 @@
 ATM 技術人員工作的使用圖範例如下：
 
 
-![image](03.jpg)
+![image](atm-3.png)
 </h2>
